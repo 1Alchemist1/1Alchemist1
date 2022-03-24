@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @1Alchemist1
+- 👀 I’m interested in programming and learning about it
+- 🌱 I’m currently learning CSS and JavaScript
