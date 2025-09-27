@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabri</h1>
 <h3 align="center">Data Science student from Argentina 🇦🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1Alchemist1&label=Profile%20views&color=0e75b6&style=flat" alt="1Alchemist1" /> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
