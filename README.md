@@ -9,7 +9,7 @@
 
 - 🌱 A
 
-- 🤝 Building my portfolio with beginner-friendly data science projects.
+- 🤝 B
 
 - 📫 You can reach me at [@gmail.com].
 
